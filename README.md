@@ -34,3 +34,6 @@ The website is built as part of the IP course assignment.
 Computer Science Student  
 St. Mary's University, Ethiopia  
 
+## Depolyment
+https://portfolio2-ip-assignment.vercel.app/
+
